@@ -1,2 +1,1 @@
-# helm-hello-world
-Helm basic example
+# Hello World
